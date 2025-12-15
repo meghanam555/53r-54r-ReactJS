@@ -1,0 +1,14 @@
+.header1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+}
+.para1{
+    text-align: end;
+    background-color: pink;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
